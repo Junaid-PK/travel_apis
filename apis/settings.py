@@ -33,6 +33,8 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",  # Alternative Vite port
 ]
 
+CORS_ALLOW_ALL_ORIGINS = True
+
 
 # Application definition
 
